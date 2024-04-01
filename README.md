@@ -1,3 +1,3 @@
 # game-of-trust
-this is my submission to data challenge by citadel securities for part 1
-it basically defines a strategy as a hmm model.
+this is my submission to data challenge by Tower Securities for part 1
+it defines a strategy as a hmm model.
